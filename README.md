@@ -28,12 +28,12 @@ javascript
 JavaScript frequently truncated as JS, is a programming language that adjusts to the ECMAScript specification.JavaScript is significant level, regularly in the nick of time accumulated, and multi-worldview. It has wavy section linguistic structure, dynamic composing, model based article direction, and five star capacities.
 Site information
 
-•	link to our site:http://www.myonlineide.com.s3-website.ap-south- 1.amazonaws.com
+•	link to our site:http://shanchessmetilda26.github.io/metilda/
 •	In this site i have used an API:https://rapidapi.com/hermanzdosilovic/api/judge0
 
 Steps to use this portal
 
-1.	click the link(http://www.myonlineide.com.s3-website.ap-south- 1.amazonaws.com) it will direct you to our website.
+1.	click the link(http://shanchessmetilda26.github.io/metilda/) it will direct you to our website.
 2.	select any language and type your code in "Code here !" tab.
 3.	if you want to get the input at runtime, give your input in "Your input here !" tab and then press run button.
 4.	if your code is clear,you won't receive any errors and your output will be successfully displayed.
